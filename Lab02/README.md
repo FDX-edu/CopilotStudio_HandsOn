@@ -11,7 +11,6 @@
 - Microsoft Copilot Studio에서 변수를 사용하는 방법을 알아봅니다.</br>
 - Power Fx 및 확장 노드 속성을 포함한 확장성 기능을 살펴봅니다.</br>
 
-이 랩을 완료하는 데 걸리는 시간은 [60]분입니다.
 
 ## 필수 조건
 
@@ -23,5 +22,4 @@
 - 인터넷 접속이 가능한 컴퓨터.
 - 제공된 Microsoft 테넌트(일부 회사는 사용자가 회사 테넌트에만 연결하도록 강제) 또는 Copilot Studio 사용자 라이선스(또는 평가판)를 사용하여 자체 엔터프라이즈 테넌트에 로그인할 수 있어야 합니다.
 - Generative AI는 "클래식"으로 설정해야 합니다(설정, Generative AI에서)
-- 랩 01 완료
-- 외부 웹사이트(learn.microsoft.com)에 액세스
+- 외부 웹사이트(learn.microsoft.com, www.nexon.com )에 액세스
