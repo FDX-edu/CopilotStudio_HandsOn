@@ -1,4 +1,4 @@
-# CopilotStudio_HandsOn
+# CopilotStudio HandsOn
 
 ## 일정표
   1차 : 2025년 3월 6일 목요일 </br>
