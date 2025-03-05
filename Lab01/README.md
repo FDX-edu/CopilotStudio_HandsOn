@@ -1,5 +1,5 @@
 
-# Microsoft Copilot Studio로 Agent 만들기 및 지식 소스 사용하기
+# Agent 만들고 지식 소스 사용하기
 
 
 ## 이 랩의 목표
