@@ -41,6 +41,8 @@
     **편집**을 클릭하여 나타나는 메뉴에서 **+ 추가**를 클릭하여 아래의 키/값을 설정합니다(2번 수행합니다).</br>
     아래 키/값은 핸즈온 후에 삭제될 예정이며, 필요시 네이버 개발자 사이트 https://developers.naver.com/ 에서 발급받아 사용하시면 됩니다.</br>
 
+    ![image](https://github.com/user-attachments/assets/62c8f44f-dc20-45a2-9fdb-b3ce54280421)
+   
     키
     ```
     X-Naver-Client-Id
@@ -57,10 +59,10 @@
     ```
     Kp5o_Rn3V_
     ```
-    
-    ![image](https://github.com/user-attachments/assets/62c8f44f-dc20-45a2-9fdb-b3ce54280421)
 
    **응답 데이터 형식**에서 **Record**를 선택하고, **스키마 편집**을 선택하여 아래 내용을 붙여넣기합니다.
+
+   ![image](https://github.com/user-attachments/assets/62c7740a-8f1e-4cbf-8e28-04bb2bcf8835)
 
    ```
     kind: Record
@@ -80,9 +82,6 @@
       start: Number
       total: Number
     ```
-
-   ![image](https://github.com/user-attachments/assets/62c7740a-8f1e-4cbf-8e28-04bb2bcf8835)
-
     
     **다음 이름으로 응답 저장** 에는 **>** 에서 **새 변수 만들기**를 선택하고, varBlogResult 라는 이름을 지정합니다.</br>
 
@@ -96,6 +95,8 @@
 
 8. 메시지 보내기 노드를 추가하고, **f(x)** 를 클릭하여 아래의 수식을 입력합니다.
 
+    ![image](https://github.com/user-attachments/assets/44e89b71-3204-4816-9b32-7b7ecf77ebbd)
+
     ```
     Concat(
         ForAll(
@@ -107,9 +108,6 @@
         Value
     )
     ```
-    ![image](https://github.com/user-attachments/assets/44e89b71-3204-4816-9b32-7b7ecf77ebbd)
-
-
 
 9. 토픽을 저장하고, 테스트 합니다.
 
